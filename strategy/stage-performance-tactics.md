@@ -77,23 +77,23 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th>
-      <th class="da">Da</th><th class="vi">Vi</th><th class="vo">Vo</th>
-      <th class="da">Da</th><th class="vi">Vi</th><th class="vo">Vo</th>
+      <th class="da">DA.</th><th class="vi">VI.</th><th class="vo">VO.</th>
+      <th class="da">DA.</th><th class="vi">VI.</th><th class="vo">VO.</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>Haruka</th>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
       <td>3</td>
       <td>3</td>
       <td>4</td>
@@ -103,16 +103,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Miki</th>
-      <td class="vi">Vi</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
       <td>2</td>
       <td class="vi"><b>5</b></td>
       <td>3</td>
@@ -122,16 +122,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Chihaya (360)</th>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
       <td>2</td>
       <td>2</td>
       <td class="vo"><b>6</b></td>
@@ -141,16 +141,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Chihaya (PS3)</th>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
       <td>2</td>
       <td>3</td>
       <td class="vo"><b>5</b></td>
@@ -160,16 +160,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Yayoi</th>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
       <td>4</td>
       <td>3</td>
       <td>3</td>
@@ -179,16 +179,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Yukiho</th>
-      <td class="vi">Vi</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
+      <td class="vi">VI.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
       <td>3</td>
       <td>4</td>
       <td>3</td>
@@ -198,16 +198,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Makoto</th>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
       <td>4</td>
       <td>3</td>
       <td>3</td>
@@ -217,16 +217,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Mami</th>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="da">DA.</td>
       <td class="da"><b>5</b></td>
       <td>3</td>
       <td>2</td>
@@ -236,16 +236,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Takane</th>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
       <td>2</td>
       <td>4</td>
       <td>4</td>
@@ -255,16 +255,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Hibiki</th>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="da">Da</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="da">DA.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
       <td class="da"><b>6</b></td>
       <td>2</td>
       <td>2</td>
@@ -280,16 +280,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
   <tbody>
     <tr>
       <th>Iori</th>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
       <td>3</td>
       <td class="vi"><b>5</b></td>
       <td>2</td>
@@ -299,16 +299,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Azusa</th>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="vo">Vo</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="vo">VO.</td>
       <td>2</td>
       <td class="vi"><b>5</b></td>
       <td>3</td>
@@ -318,16 +318,16 @@ The number of appeals during a burst appeal is lower for low BPM songs (for my s
     </tr>
     <tr>
       <th>Ami</th>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vo">Vo</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
-      <td class="da">Da</td>
-      <td class="vi">Vi</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vo">VO.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
+      <td class="da">DA.</td>
+      <td class="vi">VI.</td>
       <td class="vi"><b>5</b></td>
       <td>3</td>
       <td>2</td>

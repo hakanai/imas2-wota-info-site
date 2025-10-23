@@ -6,7 +6,8 @@ nav_order: 5
 
 # Lessons
 
-This time around there are just three lessons - Vocal, Dance and Visual.
+This time around there are just three lessons -
+<span class="vo">Vocal</span>, <span class="da">Dance</span> and <span class="vi">Visual</span>.
 
 Unlike the original game, if you're no good at one lesson you can't really substitute another, so it is best to get used to all of them quickly.
 
@@ -42,7 +43,7 @@ This time, separate from the three standard types of lessons, there is also Hell
 
 ## Vocal Lessons
 
-Vocal lessons increase the vocal (VO.) statistic.
+Vocal lessons increase the <span class="vo">Vocal</span> (<span class="vo">VO.</span>) statistic.
 
 Imitating a musical score with 
 
@@ -64,7 +65,7 @@ Even if you get used to it, compared to the other two lessons, this lesson can b
 
 ## Dance Lessons
 
-Dance lessons increase the dance (DA.) statistic.
+Dance lessons increase the <span class="da">Dance</span> (<span class="da">DA.</span>) statistic.
 
 It begins at a standard tempo, so matching the tempo as best you can, press L1 and R1 (LB and RB on 360) in time with the rhythm.
 
@@ -86,7 +87,7 @@ A miss from pressing early will not be treated as a miss if it was the same as t
 
 ## Visual Lessons
 
-Visual lessons increase the visual (VI.) statistic.
+Visual lessons increase the <span class="vi">Visual</span> (<span class="vi">VI.</span>) statistic.
 
 You succeed by touching all of the emotion panels which are the same colour as the lyrics displayed down the bottom.
 
@@ -104,7 +105,7 @@ By the way, for two lessons, visual and vocal, depending on the character, the a
 
 ## Hell Training
 
-Hell Training can increase all three stats, vocal, dance and visual.  Additionally, it slightly increases the Memory gauge.
+Hell Training can increase all three stats, <span class="vo">Vocal</span>, <span class="da">Dance</span> and <span class="vi">Visual</span>.  Additionally, it slightly increases the Memory gauge.
 
 It doesn't occur unless you lose at a compulsory Festival, or your unit is in a condition where the game deems you need it.
 

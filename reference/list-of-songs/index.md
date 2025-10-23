@@ -18,9 +18,9 @@ parent: Reference
       <th rowspan="2">Quintet</th>
     </tr>
     <tr>
-      <th class="da">Da</th>
-      <th class="vi">Vi</th>
-      <th class="vo">Vo</th>
+      <th class="da">DA.</th>
+      <th class="vi">VI.</th>
+      <th class="vo">VO.</th>
       <th>Total</th>
     </tr>
   </thead>
@@ -28,7 +28,7 @@ parent: Reference
     <tr>
       <td markdown="span">[GO MY WAY!!](go-my-way)</td>
       <td>Haruka</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">0</td>
       <td class="vo">2</td>
@@ -44,7 +44,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Relations](relations)</td>
       <td>Miki</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">5</td>
       <td class="vo">5</td>
@@ -60,7 +60,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Me ga Au Toki](me-ga-au-toki)</td>
       <td>Chihaya</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">4</td>
       <td class="vi">8</td>
       <td class="vo">6</td>
@@ -76,7 +76,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Kiramekirari](kiramekirari)</td>
       <td>Yayoi</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">2</td>
       <td class="vo">0</td>
@@ -92,7 +92,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Kosmos, Cosmos](kosmos-cosmos)</td>
       <td>Yukiho</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">7</td>
       <td class="vo">7</td>
@@ -108,7 +108,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Meisou Mind](meisou-mind)</td>
       <td>Makoto</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">6</td>
       <td class="vi">2</td>
       <td class="vo">8</td>
@@ -124,7 +124,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Do-Dai](do-dai)</td>
       <td>Mami</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">4</td>
       <td class="vo">0</td>
@@ -140,7 +140,7 @@ parent: Reference
     <tr>
       <td markdown="span">[My Best Friend](my-best-friend)</td>
       <td>Takane</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">4</td>
       <td class="vi">8</td>
       <td class="vo">6</td>
@@ -156,7 +156,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Shiny Smile](shiny-smile)</td>
       <td>Hibiki</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">4</td>
       <td class="vi">8</td>
       <td class="vo">0</td>
@@ -172,7 +172,7 @@ parent: Reference
     <tr>
       <td markdown="span">[My Song](my-song)</td>
       <td>Ryuugu Komachi</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">7</td>
       <td class="vi">7</td>
       <td class="vo">8</td>
@@ -188,7 +188,7 @@ parent: Reference
     <tr>
       <td markdown="span">[I](i)</td>
       <td>Ryuugu Komachi</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">5</td>
       <td class="vi">5</td>
       <td class="vo">8</td>
@@ -204,7 +204,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Little Match Girl](little-match-girl)</td>
       <td>-</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">7</td>
       <td class="vi">8</td>
       <td class="vo">7</td>
@@ -220,7 +220,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Ai LIKE Hamburger](ai-like-hamburger)</td>
       <td>-</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">2</td>
       <td class="vi">8</td>
       <td class="vo">0</td>
@@ -236,7 +236,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Nanairo Button](nanairo-button)</td>
       <td>-</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">7</td>
       <td class="vi">8</td>
       <td class="vo">7</td>
@@ -252,7 +252,7 @@ parent: Reference
     <tr>
       <td markdown="span">[SMOKY THRILL](smoky-thrill)</td>
       <td>-</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">6</td>
       <td class="vi">4</td>
       <td class="vo">8</td>
@@ -268,7 +268,7 @@ parent: Reference
     <tr>
       <td markdown="span">[THE IDOLM@STER 2nd-mix](the-idolmaster-2nd-mix)</td>
       <td>-</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">4</td>
       <td class="vo">2</td>
@@ -284,7 +284,7 @@ parent: Reference
     <tr>
       <td markdown="span">[MEGARE!](megare)</td>
       <td>-</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">0</td>
       <td class="vi">8</td>
       <td class="vo">2</td>
@@ -300,7 +300,7 @@ parent: Reference
     <tr>
       <td markdown="span">[The world is all one !!](the-world-is-all-one)</td>
       <td>-</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">4</td>
       <td class="vi">2</td>
       <td class="vo">8</td>
@@ -316,7 +316,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Honey Heartbeat](honey-heartbeat)</td>
       <td>-</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">5</td>
       <td class="vo">5</td>
@@ -332,7 +332,7 @@ parent: Reference
     <tr>
       <td markdown="span">[READY!!](ready)</td>
       <td>-</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">2</td>
       <td class="vi">0</td>
       <td class="vo">8</td>
@@ -363,9 +363,9 @@ parent: Reference
       <th rowspan="2">Quintet</th>
     </tr>
     <tr>
-      <th class="da">Da</th>
-      <th class="vi">Vi</th>
-      <th class="vo">Vo</th>
+      <th class="da">DA.</th>
+      <th class="vi">VI.</th>
+      <th class="vo">VO.</th>
       <th>Total</th>
     </tr>
   </thead>
@@ -373,7 +373,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Kami SUMMER!!](kami-summer)</td>
       <td>Vol. 01</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">4</td>
       <td class="vo">2</td>
@@ -386,7 +386,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Jibun REST@RT](jibun-restart)</td>
       <td>Vol. 02</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">2</td>
       <td class="vi">8</td>
       <td class="vo">0</td>
@@ -402,7 +402,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Kami-sama no Birthday](kami-sama-no-birthday)</td>
       <td>Vol. 02</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">5</td>
       <td class="vi">5</td>
       <td class="vo">8</td>
@@ -415,7 +415,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Marionette no Kokoro](marionette-no-kokoro)</td>
       <td>Vol. 03</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">2</td>
       <td class="vo">4</td>
@@ -428,7 +428,7 @@ parent: Reference
     <tr>
       <td markdown="span">[CHANGE!!!!](change)</td>
       <td>Vol. 04</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">0</td>
       <td class="vo">2</td>
@@ -441,7 +441,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Brand New Day!](brand-new-day)</td>
       <td>Vol. 05</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">2</td>
       <td class="vi">0</td>
       <td class="vo">8</td>
@@ -454,7 +454,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Watashi-tachi wa Zutto... Deshō?](watashi-tachi-wa-zutto-desho)</td>
       <td>Vol. 06</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">5</td>
       <td class="vi">8</td>
       <td class="vo">5</td>
@@ -467,7 +467,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Kyun! Vampire Girl](kyun-vampire-girl)</td>
       <td>Vol. 07</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">5</td>
       <td class="vi">5</td>
       <td class="vo">8</td>
@@ -480,7 +480,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Overmaster](overmaster)</td>
       <td>Vol. 08</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">4</td>
       <td class="vo">0</td>
@@ -493,7 +493,7 @@ parent: Reference
     <tr>
       <td markdown="span">[L.O.B.M](lobm)</td>
       <td>Vol. 09</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">2</td>
       <td class="vi">8</td>
       <td class="vo">4</td>
@@ -506,7 +506,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Colorful Days](colorful-days)</td>
       <td>Vol. 10</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">5</td>
       <td class="vi">8</td>
       <td class="vo">5</td>
@@ -519,7 +519,7 @@ parent: Reference
     <tr>
       <td markdown="span">[I Want](i-want)</td>
       <td>Vol. 11</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da">4</td>
       <td class="vi">0</td>
       <td class="vo">8</td>
@@ -532,7 +532,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Furu-Furu Future☆](furu-furu-future)</td>
       <td>Vol. 12</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td class="da">7</td>
       <td class="vi">8</td>
       <td class="vo">7</td>
@@ -545,7 +545,7 @@ parent: Reference
     <tr>
       <td markdown="span">[Mahou o Kakete!](mahou-o-kakete)</td>
       <td>Vol. 13</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td class="da"></td>
       <td class="vi"></td>
       <td class="vo"></td>

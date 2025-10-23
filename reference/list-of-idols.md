@@ -17,17 +17,17 @@ parent: Reference
       <th rowspan="2">W</th>
       <th rowspan="2">H</th>
       <th rowspan="2"></th>
-      <th rowspan="2" class="vo">Vo</th>
-      <th rowspan="2" class="da">Da</th>
-      <th rowspan="2" class="vi">Vi</th>
+      <th rowspan="2" class="vo">VO.</th>
+      <th rowspan="2" class="da">DA.</th>
+      <th rowspan="2" class="vi">VI.</th>
       <th rowspan="2">Total</th>
       <th colspan="3">Burst Rate</th>
       <th rowspan="2">Personal Song</th>
     </tr>
     <tr>
-      <th class="da">Da</th>
-      <th class="vi">Vi</th>
-      <th class="vo">Vo</th>
+      <th class="da">DA.</th>
+      <th class="vi">VI.</th>
+      <th class="vo">VO.</th>
     </tr>
   </thead>
   <tbody>

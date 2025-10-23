@@ -36,34 +36,34 @@ parent: Reference
       <td>EXTEND</td>
       <th>アイドル＠スクール</th>
       <td>1,500</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td>Can be set as school uniform</td>
     </tr>
     <tr>
       <td>EXTEND</td>
       <th>セーラーミズギ</th>
       <td>1,500</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td>Can be set as swimsuit</td>
     </tr>
     <tr>
       <td>FLORAL</td>
       <th>イブニングカンパニュラ</th>
       <td>750</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="3">(Stage Costume Pack #01)</td>
     </tr>
     <tr>
       <td>LUXURY</td>
       <th>クラッシーモノグラム</th>
       <td>750</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>STARRY</td>
       <th>レディアントスターボウ</th>
       <td>750</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
   </tbody>
   <tbody>
@@ -72,27 +72,27 @@ parent: Reference
       <td>EXTEND</td>
       <th>ホーリーナイトギフター</th>
       <td>1,500</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td></td>
     </tr>
     <tr>
       <td>FLORAL</td>
       <th>ノルディックブルーベリー</th>
       <td>750</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="3">(Stage Costume Pack #02)</td>
     </tr>
     <tr>
       <td>LUXURY</td>
       <th>ナイトオンステージ</th>
       <td>750</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>STARRY</td>
       <th>ホロスコープキャスター</th>
       <td>750</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
   </tbody>
   <tbody>
@@ -101,27 +101,27 @@ parent: Reference
       <td>EXTEND</td>
       <th>ワイヤードマリオネット</th>
       <td>1,500</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td></td>
     </tr>
     <tr>
       <td>FLORAL</td>
       <th>ジャパネスクボタン</th>
       <td>750</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="3">(Stage Costume Pack #03)</td>
     </tr>
     <tr>
       <td>LUXURY</td>
     <th>ストライプフォレスター</th>
     <td>750</td>
-    <td class="da">Da</td>
+    <td class="da">DA.</td>
     </tr>
     <tr>
       <td>STARRY</td>
     <th>ムーンライトシャンパン</th>
     <td>750</td>
-    <td class="vi">Vi</td>
+    <td class="vi">VI.</td>
     </tr>
   </tbody>
   <tbody>
@@ -130,27 +130,27 @@ parent: Reference
       <td>EXTEND</td>
       <th>チェンジ２ＭＹカラー</th>
       <td>1,500</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td></td>
     </tr>
     <tr>
       <td>FLORAL</td>
       <th>バレンタインプラム</th>
       <td>750</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="3">(Stage Costume Pack #04)</td>
     </tr>
     <tr>
       <td>LUXURY</td>
     <th>ダンシングタイガー</th>
     <td>750</td>
-    <td class="da">Da</td>
+    <td class="da">DA.</td>
     </tr>
     <tr>
       <td>STARRY</td>
     <th>カシオペアハート</th>
     <td>750</td>
-    <td class="vi">Vi</td>
+    <td class="vi">VI.</td>
     </tr>
   </tbody>
   <tbody>
@@ -159,7 +159,7 @@ parent: Reference
       <td>EXTEND</td>
       <th>スクールガールウェア</th>
       <td>1,200</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td rowspan="2">
         Can be set as school uniform<br>
         (Extend Costume Pack #01)
@@ -169,26 +169,26 @@ parent: Reference
       <td>EXTEND</td>
     <th>７６５学園ジャージ</th>
     <td>1,200</td>
-    <td class="da">Da</td>
+    <td class="da">DA.</td>
     </tr>
     <tr>
       <td>FLORAL</td>
       <th>ウィンディチェリーズ</th>
       <td>750</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="3">(Stage Costume Pack #05)</td>
     </tr>
     <tr>
       <td>LUXURY</td>
     <th>オーシャンブルーレース</th>
     <td>750</td>
-    <td class="da">Da</td>
+    <td class="da">DA.</td>
     </tr>
     <tr>
       <td>STARRY</td>
     <th>ブラックスワンＸ－１</th>
     <td>750</td>
-    <td class="vi">Vi</td>
+    <td class="vi">VI.</td>
     </tr>
   </tbody>
 </table>
@@ -212,7 +212,7 @@ parent: Reference
       <td>Head</td>
       <th>セーラーキャップ</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td rowspan="4">
         Sailor Set<br>
         (Accessory Pack #01)
@@ -222,25 +222,25 @@ parent: Reference
       <td>Body</td>
       <th>ふわふわバルーン</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>ハンドフラッグ</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>ウォーターピストル</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Head</td>
       <th>羊のツノ</th>
       <td>0</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td>PS3 exclusive, Sheep Set</td>
     </tr>
   </tbody>
@@ -250,7 +250,7 @@ parent: Reference
       <td>Head</td>
       <th>サンタの帽子</th>
       <td>300</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="4">
         Santa Set<br>
         (Accessory Pack #02)
@@ -260,25 +260,25 @@ parent: Reference
       <td>Body</td>
       <th>わくわくギフト</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>ノエルアームバンド</th>
       <td>300</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>イルミネーションアンクル</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Head</td>
       <th>スノーカチューシャ</th>
       <td>450</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td rowspan="4">
         Snow Set<br>
         (Special Accessory Pack #01)<br>
@@ -289,19 +289,19 @@ parent: Reference
       <td>Body</td>
       <th>スノーペンダント</th>
       <td>450</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>スノーブレスレット</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>スノーガーターリング</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Amulet</td>
@@ -314,7 +314,7 @@ parent: Reference
       <td>Body</td>
       <th>ふさふさウールネック</th>
       <td>0</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td>PS3 exclusive, Sheep Set</td>
     </tr>
   </tbody>
@@ -324,7 +324,7 @@ parent: Reference
       <td>Head</td>
       <th>ハーフボンネット</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td rowspan="4">
         (No set displayed)<br>
         (Accessory Pack #03)
@@ -334,32 +334,32 @@ parent: Reference
       <td>Body</td>
       <th>マリオネットストリングス</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>獅子舞パペット</th>
       <td>300</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>門松ブーツ</th>
       <td>300</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Head</td>
       <th>鏡餅オンザヘッド</th>
       <td>-</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td>Song "Marionette no Kokoro" purchase bonus</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>ウールの腕輪</th>
       <td>0</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td>PS3 exclusive, Sheep Set</td>
     </tr>
   </tbody>
@@ -369,7 +369,7 @@ parent: Reference
       <td>Head</td>
       <th>綺羅星のアンテナ</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td rowspan="4">
         (No set displayed)<br>
         (Accessory Pack #04)
@@ -379,25 +379,25 @@ parent: Reference
       <td>Body</td>
       <th>ワンダリングＵＦＯ</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>願い星のステッキ</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>メビウスアンクル</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Head</td>
       <th>魔法使いの帽子</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="4">
         Magician Set<br>
         (Special Accessory Pack #02)<br>
@@ -408,19 +408,19 @@ parent: Reference
       <td>Body</td>
       <th>魔法のホウキ</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>黒猫のぬいぐるみ</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>魔法使いの靴</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Amulet</td>
@@ -433,7 +433,7 @@ parent: Reference
       <td>Leg</td>
       <th>ウールのブーツカバー</th>
       <td>0</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td rowspan="4">PS3 exclusive, Sheep Set</td>
     </tr>
   </tbody>
@@ -443,7 +443,7 @@ parent: Reference
       <td>Head</td>
       <th>お勉強メガネ</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td rowspan="4">
         (No set displayed)<br>
         (Accessory Pack #05)
@@ -453,25 +453,25 @@ parent: Reference
       <td>Body</td>
       <th>スクールバッグ</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>ストロベリークレープ</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>膝ばんそうこうＬ</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Head</td>
       <th>ひな祭りカチューシャ</th>
       <td>0</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td>PS3 exclusive, Sheep Set</td>
     </tr>
   </tbody>
@@ -481,7 +481,7 @@ parent: Reference
       <td>Head</td>
       <th>うしみみ</th>
       <td>300</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="4">
         Cow Set<br>
         (Accessory Pack #06)
@@ -491,25 +491,25 @@ parent: Reference
       <td>Body</td>
       <th>うししっぽ</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>うしひづめ</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>うしあし</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Head</td>
       <th>ＩＡ大賞クラウン</th>
       <td>450</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td rowspan="4">
         IA First Prize Set<br>
         (Special Accessory Pack #03)<br>
@@ -520,19 +520,19 @@ parent: Reference
       <td>Body</td>
       <th>ＩＡ大賞ゴールドメダル</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>ＩＡ大賞トロフィー</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>ＩＡ大賞リボンガーター</th>
       <td>450</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Amulet</td>
@@ -545,7 +545,7 @@ parent: Reference
       <td>Hand</td>
       <th>ぎゅーっとトロ</th>
       <td>0</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td>PS3 exclusive</td>
     </tr>
   </tbody>
@@ -555,7 +555,7 @@ parent: Reference
       <td>Head</td>
       <th>ヴァンパイアマウスピース</th>
       <td>300</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td rowspan="4">
         Vampire Set<br>
         (Accessory Pack #07)
@@ -565,25 +565,25 @@ parent: Reference
       <td>Body</td>
       <th>ハートオブヴァンパイア</th>
       <td>300</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>ブラッディネイル</th>
       <td>300</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>フライングバット</th>
       <td>300</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Head</td>
       <th>ゴシックヘッドドレス</th>
       <td>450</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td rowspan="4">
         Gothic Set<br>
         (Special Accessory Pack #04)<br>
@@ -594,25 +594,25 @@ parent: Reference
       <td>Body</td>
       <th>ゴシックローズコサージュ</th>
       <td>450</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
     </tr>
     <tr>
       <td>Hand</td>
       <th>ゴシックフリルブレス</th>
       <td>450</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>ゴシックフリルアンクル</th>
       <td>450</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
     </tr>
     <tr>
       <td>Leg</td>
       <th>ひょこっとクロ</th>
       <td>0</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td>PS3 exclusive</td>
     </tr>
   </tbody>
@@ -637,7 +637,7 @@ parent: Reference
       <td>Trio</td>
       <th>神SUMMER!!</th>
       <td>1,800</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td></td>
     </tr>
     <tr>
@@ -645,14 +645,14 @@ parent: Reference
       <td>Quintet</td>
       <th>自分REST@RT</th>
       <td>1,800</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td></td>
     </tr>
     <tr>
       <td>Trio</td>
       <th>神さまのBirthday</th>
       <td>1,200</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td></td>
     </tr>
     <tr>
@@ -660,7 +660,7 @@ parent: Reference
       <td>Trio</td>
       <th>マリオネットの心</th>
       <td>1,800</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td></td>
     </tr>
     <tr>
@@ -668,7 +668,7 @@ parent: Reference
       <td>Quintet</td>
       <th>CHANGE!!!!</th>
       <td>1,800</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td></td>
     </tr>
     <tr>
@@ -676,7 +676,7 @@ parent: Reference
       <td>Trio</td>
       <th>Brand New Day!</th>
       <td>1,800</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td></td>
     </tr>
     <tr>
@@ -684,7 +684,7 @@ parent: Reference
       <td>Quintet</td>
       <th>私たちはずっと・・・でしょう？</th>
       <td> 1,800</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td></td>
     </tr>
     <tr>
@@ -692,7 +692,7 @@ parent: Reference
       <td>Trio</td>
       <th>きゅんっ！ヴァンパイアガール</th>
       <td>1,800</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td></td>
     </tr>
   </tbody>
@@ -1159,7 +1159,7 @@ Price is the total amount you need to pay to get the additional item (using pack
       <td>Head</td>
       <th>おにぎりヘッド</th>
       <td>11,840</td>
-      <td class="da">Da</td>
+      <td class="da">DA.</td>
       <td>Costumes 4,980, Accessories 980, Songs 1,800, Other 4,080</td>
     </tr>
     <tr>
@@ -1167,7 +1167,7 @@ Price is the total amount you need to pay to get the additional item (using pack
       <td>Body</td>
       <th>あずさの結婚首輪</th>
       <td>10,190</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td>Costumes 3,480, Accessories 2,910, Songs 3,000, Other 800</td>
     </tr>
     <tr>
@@ -1175,7 +1175,7 @@ Price is the total amount you need to pay to get the additional item (using pack
       <td>Hand</td>
       <th>真美＆亜美のパペット</th>
       <td>7,860</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td>Costumes 3,480, Accessories 980, Songs 1,800, Other 1,600</td>
     </tr>
     <tr>
@@ -1183,7 +1183,7 @@ Price is the total amount you need to pay to get the additional item (using pack
       <td>Body</td>
       <th>ひっつき亜美真美ちゃん</th>
       <td>10,590</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td>Costumes 3,480, Accessories 2,910, Songs 1,800, Other 2,400</td>
     </tr>
     <tr>
@@ -1191,7 +1191,7 @@ Price is the total amount you need to pay to get the additional item (using pack
       <td>Head</td>
       <th>アナザー律っちゃんメガネ</th>
       <td>8,340</td>
-      <td class="vo">Vo</td>
+      <td class="vo">VO.</td>
       <td>Costumes 3,960, Accessories 980, Songs 1,800, Other 1,600</td>
     </tr>
     <tr>
@@ -1199,7 +1199,7 @@ Price is the total amount you need to pay to get the additional item (using pack
       <td>Head</td>
       <th>小鳥さんの艶ぼくろ</th>
       <td>8,990</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td>Costumes 3,480, Accessories 2,910, Songs 1,800, Other 800</td>
     </tr>
     <tr>
@@ -1207,7 +1207,7 @@ Price is the total amount you need to pay to get the additional item (using pack
       <td>Leg</td>
       <th>ぴたっとハム蔵</th>
       <td>9,340</td>
-      <td class="vi">Vi</td>
+      <td class="vi">VI.</td>
       <td>Costumes 3,480, Accessories 2,460, Songs 1,800, Other 1,600</td>
     </tr>
   </tbody>

@@ -31,15 +31,15 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
     <tr>
       <td>Aomori<br>青森県</td>
       <td>Neburin-chan's Amulet<br>ネブリンちゃんのお守り</td>
-      <td><span class="vi">VI.</span> appeal score UP (Small)</td>
+      <td><span class="vi">Visual</span> appeal score UP (Small)</td>
       <td>16,200</td>
     </tr>
     <tr>
       <td>Iwate<br>岩手県</td>
       <td>Ushiwara-san's Amulet<br>うしわらさんお守り</td>
       <td>
-        <span class="da">DA.</span> appeal's multiplier decay DOWN (Medium)<br>
-        <span class="vi">VI.</span> appeal score UP (Medium)
+        <span class="da">Dance</span> appeal's multiplier decay DOWN (Medium)<br>
+        <span class="vi">Visual</span> appeal score UP (Medium)
       </td>
       <td>25,200</td>
     </tr>
@@ -47,8 +47,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Miyagi<br>宮城県</td>
       <td>Tanaco-chan's Amulet<br>Tanacoちゃんお守り</td>
       <td>
-        <span class="vi">VI.</span> appeal score UP (Large)<br>
-        <span class="vi">VI.</span> appeal voltage increase DOWN (Medium)
+        <span class="vi">Visual</span> appeal score UP (Large)<br>
+        <span class="vi">Visual</span> appeal voltage increase DOWN (Medium)
       </td>
       <td>28,500</td>
     </tr>
@@ -88,15 +88,15 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
     <tr>
       <td>Tochigi<br>栃木県</td>
       <td>Rai-chan's Amulet<br>らいちゃんお守り</td>
-      <td><span class="vi">VI.</span> appeal voltage increase UP (Small)</td>
+      <td><span class="vi">Visual</span> appeal voltage increase UP (Small)</td>
       <td>16,200</td>
     </tr>
     <tr>
       <td>Gunma<br>群馬県</td>
       <td>Hiyoko Daruma's Amulet<br>ひよこダルマのお守り</td>
       <td>
-        <span class="vi">VI.</span> appeal voltage increase UP (Medium)<br>
-        <span class="vi">VI.</span> appeal score DOWN (Small)
+        <span class="vi">Visual</span> appeal voltage increase UP (Medium)<br>
+        <span class="vi">Visual</span> appeal score DOWN (Small)
       </td>
       <td>17,400</td>
     </tr>
@@ -104,8 +104,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Saitama<br>埼玉県</td>
       <td>Sai-chin's Amulet<br>サイちんのお守り</td>
       <td>
-        <span class="vi">VI.</span> appeal voltage increase UP (Medium)<br>
-        <span class="vi">VI.</span> appeal's multiplier decay UP (Medium)
+        <span class="vi">Visual</span> appeal voltage increase UP (Medium)<br>
+        <span class="vi">Visual</span> appeal's multiplier decay UP (Medium)
       </td>
       <td>21,000</td>
     </tr>
@@ -128,8 +128,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Kanagawa<br>神奈川県</td>
       <td><b>Nikuwan's Amulet<br>にくワンのお守り</b></td>
       <td>
-        <span class="da">DA.</span> appeal's multiplier decay DOWN (Large)<br>
-        <span class="vi">VI.</span> appeal's multiplier decay DOWN (Large)
+        <span class="da">Dance</span> appeal's multiplier decay DOWN (Large)<br>
+        <span class="vi">Visual</span> appeal's multiplier decay DOWN (Large)
       </td>
       <td>27,900</td>
     </tr>
@@ -145,15 +145,15 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
     <tr>
       <td>Toyama<br>富山県</td>
       <td>Kurobe Raita's Amulet<br>黒部雷太のお守り</td>
-      <td><span class="vo">VO.</span> appeal voltage increase UP (Small)</td>
+      <td><span class="vo">Vocal</span> appeal voltage increase UP (Small)</td>
       <td>16,200</td>
     </tr>
     <tr>
       <td>Ishikawa<br>石川県</td>
       <td>Nyawan-chan's Amulet<br>にゃわんちゃんお守り</td>
       <td>
-        <span class="vo">VO.</span> appeal voltage increase UP (Medium)<br>
-        <span class="vo">VO.</span> appeal score DOWN (Small)
+        <span class="vo">Vocal</span> appeal voltage increase UP (Medium)<br>
+        <span class="vo">Vocal</span> appeal score DOWN (Small)
       </td>
       <td>17,400</td>
     </tr>
@@ -161,8 +161,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Fukui<br>福井県</td>
       <td>Flap-kun's Amulet<br>フラップくんお守り</td>
       <td>
-        <span class="vo">VO.</span> appeal voltage increase UP (Medium)<br>
-        <span class="vo">VO.</span> appeal's multiplier decay UP (Medium)
+        <span class="vo">Vocal</span> appeal voltage increase UP (Medium)<br>
+        <span class="vo">Vocal</span> appeal's multiplier decay UP (Medium)
       </td>
       <td>21,000</td>
     </tr>
@@ -179,8 +179,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Nagano<br>長野県</td>
       <td><b>Rinkamo's Amulet<br>リンカモのお守り</b></td>
       <td>
-        <span class="vo">VO.</span> appeal's multiplier decay DOWN (Large)<br>
-        <span class="vi">VI.</span> appeal's multiplier decay DOWN (Large)
+        <span class="vo">Vocal</span> appeal's multiplier decay DOWN (Large)<br>
+        <span class="vi">Visual</span> appeal's multiplier decay DOWN (Large)
       </td>
       <td>27,900</td>
     </tr>
@@ -226,15 +226,15 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
     <tr>
       <td>Shiga<br>滋賀県</td>
       <td>Shigaranuki's Amulet<br>しがらぬきのお守り</td>
-      <td><span class="da">DA.</span> / <span class="vi">VI.</span> appeal score UP (Small)</td>
+      <td><span class="da">Dance</span> / <span class="vi">Visual</span> appeal score UP (Small)</td>
       <td>16,200</td>
     </tr>
     <tr>
       <td>Kyoto<br>京都府</td>
       <td>Maikon-han's Amulet<br>舞こんはんのお守り</td>
       <td>
-        <span class="vo">VO.</span> appeal's multiplier decay DOWN (Medium)<br>
-        <span class="da">DA.</span> / <span class="vi">VI.</span> appeal score UP (Medium)
+        <span class="vo">Vocal</span> appeal's multiplier decay DOWN (Medium)<br>
+        <span class="da">Dance</span> / <span class="vi">Visual</span> appeal score UP (Medium)
       </td>
       <td>25,200</td>
     </tr>
@@ -242,8 +242,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Osaka<br>大阪府</td>
       <td>Tora-san's Amulet<br>とらっさんのお守り</td>
       <td>
-        <span class="da">DA.</span> / <span class="vi">VI.</span> appeal score UP (Large)<br>
-        <span class="da">DA.</span> appeal voltage increase DOWN (Medium)
+        <span class="da">Dance</span> / <span class="vi">Visual</span> appeal score UP (Large)<br>
+        <span class="da">Dance</span> appeal voltage increase DOWN (Medium)
       </td>
       <td>28,500</td>
     </tr>
@@ -286,15 +286,15 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
     <tr>
       <td>Shimane<br>島根県</td>
       <td>Tai-shan's Amulet<br>たいしゃんお守り</td>
-      <td><span class="da">DA.</span> appeal voltage increase UP (Small)</td>
+      <td><span class="da">Dance</span> appeal voltage increase UP (Small)</td>
       <td>16,200</td>
     </tr>
     <tr>
       <td>Okayama<br>岡山県</td>
       <td>Kibi-tan's Amulet<br>きびたんお守り</td>
       <td>
-        <span class="da">DA.</span> appeal voltage increase UP (Medium)<br>
-        <span class="da">DA.</span> appeal score DOWN (Small)
+        <span class="da">Dance</span> appeal voltage increase UP (Medium)<br>
+        <span class="da">Dance</span> appeal score DOWN (Small)
       </td>
       <td>17,400</td>
     </tr>
@@ -302,8 +302,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Hiroshima<br>広島県</td>
       <td>Momiji-chan's Amulet<br>もみじちゃんのお守り</td>
       <td>
-        <span class="da">DA.</span> appeal voltage increase UP (Medium)<br>
-        <span class="da">DA.</span> appeal's multiplier decay UP (Medium)
+        <span class="da">Dance</span> appeal voltage increase UP (Medium)<br>
+        <span class="da">Dance</span> appeal's multiplier decay UP (Medium)
       </td>
       <td>21,000</td>
     </tr>
@@ -320,8 +320,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Tokushima<br>徳島県</td>
       <td><b>Awanko's Amulet<br>あわんこのお守り</b></td>
       <td>
-        <span class="vo">VO.</span> appeal's multiplier decay DOWN (Large)<br>
-        <span class="da">DA.</span> appeal's multiplier decay DOWN (Large)
+        <span class="vo">Vocal</span> appeal's multiplier decay DOWN (Large)<br>
+        <span class="da">Dance</span> appeal's multiplier decay DOWN (Large)
       </td>
       <td>27,900</td>
     </tr>
@@ -362,7 +362,7 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Saga<br>佐賀県</td>
       <td>Nori-gorou's Amulet<br>のりゴロウのお守り</td>
       <td>
-        <span class="vo">VO.</span><span class="vi">VI.</span> appeal score UP (Small)<br>
+        <span class="vo">Vocal</span> / <span class="vi">Visual</span> appeal score UP (Small)<br>
         General appeal score DOWN (Small)
       </td>
       <td>16,200</td>
@@ -371,8 +371,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Nagasaki<br>長崎県</td>
       <td>Momoka-chan's Amulet<br>ももかちゃんのお守り</td>
       <td>
-        <span class="vi">VI.</span> appeal's multiplier decay DOWN (Medium)<br>
-        <span class="vo">VO.</span> / <span class="vi">VI.</span> appeal score UP (Medium)
+        <span class="vi">Visual</span> appeal's multiplier decay DOWN (Medium)<br>
+        <span class="vo">Vocal</span> / <span class="vi">Visual</span> appeal score UP (Medium)
       </td>
       <td>25,200</td>
     </tr>
@@ -380,8 +380,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Kumamoto<br>熊本県</td>
       <td>Karashi Rentarou's Amulet<br>辛子 蓮太郎のお守り</td>
       <td>
-        <span class="vo">VO.</span> / <span class="vi">VI.</span> appeal score UP (Large)<br>
-        <span class="vo">VO.</span> appeal voltage increase DOWN (Medium)
+        <span class="vo">Vocal</span> / <span class="vi">Visual</span> appeal score UP (Large)<br>
+        <span class="vo">Vocal</span> appeal voltage increase DOWN (Medium)
       </td>
       <td>28,500</td>
     </tr>
@@ -389,8 +389,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Ooita<br>大分県</td>
       <td>Bungo-nyan THE Emon's Amulet<br>豊後にゃんTHEえもんのお守り</td>
       <td>
-        <span class="da">DA.</span> appeal's multiplier decay DOWN (Small)<br>
-        <span class="vo">VO.</span> / <span class="da">DA.</span> スコアUP (Small)
+        <span class="da">Dance</span> appeal's multiplier decay DOWN (Small)<br>
+        <span class="vo">Vocal</span> / <span class="da">Dance</span> スコアUP (Small)
       </td>
       <td>24,000</td>
     </tr>
@@ -398,8 +398,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Miyazaki<br>宮崎県</td>
       <td>Mango-tarou's Amulet<br>マンゴー太郎のお守り</td>
       <td>
-        <span class="vi">VI.</span> appeal's multiplier decay DOWN (Small)<br>
-        <span class="da">DA.</span> / <span class="vi">VI.</span> appeal score UP (Small)
+        <span class="vi">Visual</span> appeal's multiplier decay DOWN (Small)<br>
+        <span class="da">Dance</span> / <span class="vi">Visual</span> appeal score UP (Small)
       </td>
       <td>22,800</td>
     </tr>
@@ -407,8 +407,8 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Kagoshima<br>鹿児島県</td>
       <td>Satsumaiman's Amulet<br>サツマイマンのお守り</td>
       <td>
-        <span class="vo">VO.</span> appeal's multiplier decay DOWN (Small)<br>
-        <span class="vo">VO.</span> / <span class="vi">VI.</span> appeal score UP (Small)
+        <span class="vo">Vocal</span> appeal's multiplier decay DOWN (Small)<br>
+        <span class="vo">Vocal</span> / <span class="vi">Visual</span> appeal score UP (Small)
       </td>
       <td>25,800</td>
     </tr>
@@ -451,11 +451,11 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Change the Burst</td>
       <td>
         When doing a burst appeal, displays all 3 characters.<br>
-        <span class="vi">VI.</span> appeal score UP (Medium)<br>
+        <span class="vi">Visual</span> appeal score UP (Medium)<br>
         General appeal voltage increase UP (Large)<br>
         Burst appeals during the encore or recordings also display all 3 characters.<br>
         Burst appeal rate change<br>
-        <span class="da">DA.</span> 0.9 / <span class="vi">VI.</span> 1.0 / <span class="vo">VO.</span> 1.2
+        <span class="da">Dance</span> 0.9 / <span class="vi">Visual</span> 1.0 / <span class="vo">Vocal</span> 1.2
       </td>
       <td>Clear Ryuugu Komachi's Extra Episode which appears after clearing the main game</td>
     </tr>
@@ -463,11 +463,11 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Himawari Honey's Amulet<br>ひまわりハニーのお守り</td>
       <td>Change the Burst</td>
       <td>When doing a burst appeal, displays all 3 characters.<br>
-        <span class="vo">VO.</span> appeal score UP (Medium)<br>
+        <span class="vo">Vocal</span> appeal score UP (Medium)<br>
         General appeal voltage increase UP (Large)<br>
         Burst appeals during the encore or recordings also display all 3 characters.<br>
         Burst appeal rate change<br>
-        <span class="da">DA.</span> 1.2 / <span class="vi">VI.</span> 0.9 / <span class="vo">VO.</span> 1.0
+        <span class="da">Dance</span> 1.2 / <span class="vi">Visual</span> 0.9 / <span class="vo">Vocal</span> 1.0
       </td>
       <td>DLC Catalog Vol. 02 (450￥)</td>
     </tr>
@@ -476,11 +476,11 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Change the Burst</td>
       <td>
         When doing a burst appeal, displays all 3 characters.<br>
-        <span class="da">DA.</span> appeal score UP (Medium)<br>
+        <span class="da">Dance</span> appeal score UP (Medium)<br>
         General appeal voltage increase UP (Large)<br>
         Burst appeals during the encore or recordings also display all 3 characters.<br>
         Burst appeal rate change<br>
-        <span class="da">DA.</span> 1.0 / <span class="vi">VI.</span> 1.2 / <span class="vo">VO.</span> 0.9
+        <span class="da">Dance</span> 1.0 / <span class="vi">Visual</span> 1.2 / <span class="vo">Vocal</span> 0.9
       </td>
       <td>DLC Catalog Vol. 04 (450￥)</td>
     </tr>
@@ -489,11 +489,11 @@ More information on "NamChara" Cheer Squad characters [at the Namco site](http:/
       <td>Change the Burst</td>
       <td>
         When doing a burst appeal, displays all 3 characters.<br>
-        <span class="vi">VI.</span> appeal multiplier decay DOWN (Medium)<br>
+        <span class="vi">Visual</span> appeal multiplier decay DOWN (Medium)<br>
         General appeal voltage increase UP (Large)<br>
         Burst appeals during the encore or recordings also display all 3 characters.<br>
         Burst appeal rate change<br>
-        <span class="da">DA.</span> 1.0 / <span class="vi">VI.</span> 0.9 / <span class="vo">VO.</span> 1.2
+        <span class="da">Dance</span> 1.0 / <span class="vi">Visual</span> 0.9 / <span class="vo">Vocal</span> 1.2
       </td>
       <td>DLC Catalog Vol. 06 (450￥)</td>
     </tr>
