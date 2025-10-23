@@ -3,7 +3,7 @@ title: Welcome!
 nav_order: 0
 ---
 
-![site logo](/assets/images/site-logo-white-transparent.png)
+![site logo](/assets/images/site-logo-white-transparent.png){: class="auto-invert"}
 
 # Welcome!
 

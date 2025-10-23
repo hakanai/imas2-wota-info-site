@@ -9,4 +9,4 @@ In Idolmaster 2, before you start any job (whether it be normal work or paid pro
 
 When you get the question right, the unit's [Unity Score](/unit-statistics/unity-score) will increase. 
 
-![Map of Japan](/assets/images/map-of-japan.gif)
+![Map of Japan](/assets/images/map-of-japan-white-transparent.png){: class="auto-invert"}
