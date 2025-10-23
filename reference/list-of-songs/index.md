@@ -35,7 +35,10 @@ parent: Reference
       <td>10</td>
       <td>180</td>
       <td>136</td>
-      <td>(Right before the end of the instrumental) "dada!! (END) dada!!dadadada!! GO MY WAY~"</td>
+      <td>
+        (Right before the end of the instrumental) "dada!! (END) dada!!dadadada!! GO MY WAY~"<br>
+        <audio controls src="/assets/audio/go-my-way-end.mp3"></audio>
+      </td>
       <td>✗</td>
     </tr>
     <tr>
@@ -48,7 +51,10 @@ parent: Reference
       <td>18</td>
       <td>142</td>
       <td>120</td>
-      <td>kowareru kurai ni dakishimete (END)</td>
+      <td>
+        kowareru kurai ni dakishimete (END)<br>
+        <audio controls src="/assets/audio/relations-end.mp3"></audio>
+      </td>
       <td>✓</td>
     </tr>
     <tr>
@@ -61,7 +67,10 @@ parent: Reference
       <td>18</td>
       <td>145</td>
       <td>120</td>
-      <td>(instrumental) / me to me ga au shunkan suki da to kizuita (END) / anata wa</td>
+      <td>
+        (instrumental) / me to me ga au shunkan suki da to kizuita (END) / anata wa<br>
+        <audio controls src="/assets/audio/me-ga-au-toki-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Kiramekirari](kiramekirari)</td>
@@ -73,7 +82,10 @@ parent: Reference
       <td>10</td>
       <td>180</td>
       <td>150</td>
-      <td>genki ni hajimereba ALL OK / toki(END)mekirari</td>
+      <td>
+        genki ni hajimereba ALL OK / toki(END)mekirari<br>
+        <audio controls src="/assets/audio/kiramekirari-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Kosmos, Cosmos](kosmos-cosmos)</td>
@@ -85,7 +97,10 @@ parent: Reference
       <td>22</td>
       <td>132</td>
       <td>103</td>
-      <td>supiido wo fumikonde / hirari (END) furari</td>
+      <td>
+        supiido wo fumikonde / hirari (END) furari<br>
+        <audio controls src="/assets/audio/kosmos-cosmos-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Meisou Mind](meisou-mind)</td>
@@ -97,7 +112,10 @@ parent: Reference
       <td>16</td>
       <td>152</td>
       <td>120</td>
-      <td>totsuzen no kurayami to (END)</td>
+      <td>
+        totsuzen no kurayami to (END)<br>
+        <audio controls src="/assets/audio/meisou-mind-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Do-Dai](do-dai)</td>
@@ -109,7 +127,10 @@ parent: Reference
       <td>12</td>
       <td>171</td>
       <td>150</td>
-      <td>herohero prinsesu genbatouchaku (END) / purinsu mirunari</td>
+      <td>
+        herohero prinsesu genbatouchaku (END) / purinsu mirunari<br>
+        <audio controls src="/assets/audio/do-dai-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[My Best Friend](my-best-friend)</td>
@@ -121,7 +142,10 @@ parent: Reference
       <td>18</td>
       <td>157</td>
       <td>120</td>
-      <td>maru de jetto koosutaa mitai ne / (END) itsudemo dokidoki</td>
+      <td>
+        maru de jetto koosutaa mitai ne / (END) itsudemo dokidoki<br>
+        <audio controls src="/assets/audio/my-best-friend-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Shiny Smile](shiny-smile)</td>
@@ -133,7 +157,10 @@ parent: Reference
       <td>12</td>
       <td>170</td>
       <td>150</td>
-      <td>ishikoro wo kawashite / nakisou na (END) omoi wo</td>
+      <td>
+        ishikoro wo kawashite / nakisou na (END) omoi wo<br>
+        <audio controls src="/assets/audio/shiny-smile-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[My Song](my-song)</td>
@@ -145,7 +172,10 @@ parent: Reference
       <td>22</td>
       <td>104</td>
       <td>88</td>
-      <td>itsuka wa omoide ni naru (END) kara</td>
+      <td>
+        itsuka wa omoide ni naru (END) kara<br>
+        <audio controls src="/assets/audio/my-song-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[I](i)</td>
@@ -157,7 +187,10 @@ parent: Reference
       <td>18</td>
       <td>140</td>
       <td>120</td>
-      <td>uta ya dansu de jibun wo tsutaeyo(END)u</td>
+      <td>
+        uta ya dansu de jibun wo tsutaeyo(END)u<br>
+        <audio controls src="/assets/audio/i-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Little Match Girl](little-match-girl)</td>
@@ -169,7 +202,10 @@ parent: Reference
       <td>22</td>
       <td>135</td>
       <td>103</td>
-      <td>kareteku kodou, kikitaku nai yo  (END)</td>
+      <td>
+        kareteku kodou, kikitaku nai yo  (END)<br>
+        <audio controls src="/assets/audio/little-match-girl-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Ai LIKE Hamburger](ai-like-hamburger)</td>
@@ -181,7 +217,10 @@ parent: Reference
       <td>10</td>
       <td>192</td>
       <td>150</td>
-      <td>daisuki suki yo hanbaagaa / daisuki yo (END) hanbaagaa</td>
+      <td>
+        daisuki suki yo hanbaagaa / daisuki yo (END) hanbaagaa<br>
+        <audio src="/assets/audio/ai-like-hamburger-end.mp3" controls></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Nanairo Button](nanairo-button)</td>
@@ -193,7 +232,10 @@ parent: Reference
       <td>22</td>
       <td>128</td>
       <td>103</td>
-      <td>Kimi ga fureta kara nanairo botan / subete wo niji ni (END) kaeta yo</td>
+      <td>
+        Kimi ga fureta kara nanairo botan / subete wo niji ni (END) kaeta yo<br>
+        <audio src="/assets/audio/nanairo-button-end.mp3" controls></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[SMOKY THRILL](smoky-thrill)</td>
@@ -205,7 +247,10 @@ parent: Reference
       <td>18</td>
       <td>146</td>
       <td>120</td>
-      <td>oh, saraba! / a(END)wayokuba</td>
+      <td>
+        oh, saraba! / a(END)wayokuba<br>
+        <audio src="/assets/audio/smoky-thrill-end.mp3" controls></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[THE IDOLM@STER 2nd-mix](the-idolmaster-2nd-mix)</td>
@@ -217,7 +262,10 @@ parent: Reference
       <td>14</td>
       <td>168</td>
       <td>136</td>
-      <td>(instrumental) / atara(END)shii</td>
+      <td>
+        (instrumental) / atara(END)shii<br>
+        <audio controls src="/assets/audio/the-idolmaster-2nd-mix-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[MEGARE!](megare)</td>
@@ -229,7 +277,10 @@ parent: Reference
       <td>10</td>
       <td>180</td>
       <td>150</td>
-      <td>kandousaserareru ka na / (END) mezase aidoru</td>
+      <td>
+        kandousaserareru ka na / (END) mezase aidoru<br>
+        <audio controls src="/assets/audio/megare-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[The world is all one !!](the-world-is-all-one)</td>
@@ -241,7 +292,10 @@ parent: Reference
       <td>14</td>
       <td>167</td>
       <td>150</td>
-      <td>sekaijuu no te wo tori (END)</td>
+      <td>
+        sekaijuu no te wo tori (END)<br>
+        <audio controls src="/assets/audio/the-world-is-all-one-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[Honey Heartbeat](honey-heartbeat)</td>
@@ -253,7 +307,10 @@ parent: Reference
       <td>18</td>
       <td>142</td>
       <td>120</td>
-      <td>Say. my honey. What you wan(END)t. senaka ni</td>
+      <td>
+        Say. my honey. What you wan(END)t. senaka ni<br>
+        <audio controls src="/assets/audio/honey-heartbeat-end.mp3"></audio>
+      </td>
     </tr>
     <tr>
       <td markdown="span">[READY!!](ready)</td>
@@ -265,7 +322,10 @@ parent: Reference
       <td>10</td>
       <td>174</td>
       <td>150</td>
-      <td>deai ya wakare wa ai ni naru AMUSEMENT / ALREADY!! WE(END)'RE ALL</td>
+      <td>
+        deai ya wakare wa ai ni naru AMUSEMENT / ALREADY!! WE(END)'RE ALL<br>
+        <audio controls src="/assets/audio/ready-end.mp3"></audio>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -315,7 +375,10 @@ parent: Reference
       <td>10</td>
       <td>171</td>
       <td>150</td>
-      <td>donna ni tookutemo ikou / akogare no (END) sekai</td>
+      <td>
+        donna ni tookutemo ikou / akogare no (END) sekai<br>
+        <audio controls src="/assets/audio/jibun-restart-end.mp3"></audio>
+      </td>
       <td>✓</td>
     </tr>
     <tr>
