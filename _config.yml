@@ -27,8 +27,14 @@ permalink: /:categories/:year/:month/:day/:title
 
 title: "THE iDOLM@STER 2 Strategy Site"
 description: "Strategy site for THE iDOLM@STER 2, including translation of the Japanese strategy wiki for the same."
-copyright: "Copyright ©️ 2012-2020, 2025 Hakanai"
 ga_tracking: UA-97875-2
+
+footer_content: "Copyright ©️ 2011-2020, 2025 Hakanai."
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/hakanai/imas2-wota-info-site"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
 
 nav_enabled: true
 nav_error_report: true
