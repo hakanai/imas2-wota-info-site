@@ -55,7 +55,7 @@ parent: Reference
         kowareru kurai ni dakishimete (END)<br>
         <audio controls src="/assets/audio/relations-end.mp3"></audio>
       </td>
-      <td>✓</td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Me ga Au Toki](me-ga-au-toki)</td>
@@ -71,6 +71,7 @@ parent: Reference
         (instrumental) / me to me ga au shunkan suki da to kizuita (END) / anata wa<br>
         <audio controls src="/assets/audio/me-ga-au-toki-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Kiramekirari](kiramekirari)</td>
@@ -86,6 +87,7 @@ parent: Reference
         genki ni hajimereba ALL OK / toki(END)mekirari<br>
         <audio controls src="/assets/audio/kiramekirari-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Kosmos, Cosmos](kosmos-cosmos)</td>
@@ -101,6 +103,7 @@ parent: Reference
         supiido wo fumikonde / hirari (END) furari<br>
         <audio controls src="/assets/audio/kosmos-cosmos-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Meisou Mind](meisou-mind)</td>
@@ -116,6 +119,7 @@ parent: Reference
         totsuzen no kurayami to (END)<br>
         <audio controls src="/assets/audio/meisou-mind-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Do-Dai](do-dai)</td>
@@ -131,6 +135,7 @@ parent: Reference
         herohero prinsesu genbatouchaku (END) / purinsu mirunari<br>
         <audio controls src="/assets/audio/do-dai-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[My Best Friend](my-best-friend)</td>
@@ -146,6 +151,7 @@ parent: Reference
         maru de jetto koosutaa mitai ne / (END) itsudemo dokidoki<br>
         <audio controls src="/assets/audio/my-best-friend-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Shiny Smile](shiny-smile)</td>
@@ -161,6 +167,7 @@ parent: Reference
         ishikoro wo kawashite / nakisou na (END) omoi wo<br>
         <audio controls src="/assets/audio/shiny-smile-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[My Song](my-song)</td>
@@ -176,6 +183,7 @@ parent: Reference
         itsuka wa omoide ni naru (END) kara<br>
         <audio controls src="/assets/audio/my-song-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[I](i)</td>
@@ -191,6 +199,7 @@ parent: Reference
         uta ya dansu de jibun wo tsutaeyo(END)u<br>
         <audio controls src="/assets/audio/i-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Little Match Girl](little-match-girl)</td>
@@ -206,6 +215,7 @@ parent: Reference
         kareteku kodou, kikitaku nai yo  (END)<br>
         <audio controls src="/assets/audio/little-match-girl-end.mp3"></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Ai LIKE Hamburger](ai-like-hamburger)</td>
@@ -221,6 +231,7 @@ parent: Reference
         daisuki suki yo hanbaagaa / daisuki yo (END) hanbaagaa<br>
         <audio src="/assets/audio/ai-like-hamburger-end.mp3" controls></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[Nanairo Button](nanairo-button)</td>
@@ -236,6 +247,7 @@ parent: Reference
         Kimi ga fureta kara nanairo botan / subete wo niji ni (END) kaeta yo<br>
         <audio src="/assets/audio/nanairo-button-end.mp3" controls></audio>
       </td>
+      <td>✗</td>
     </tr>
     <tr>
       <td markdown="span">[SMOKY THRILL](smoky-thrill)</td>
@@ -251,6 +263,7 @@ parent: Reference
         oh, saraba! / a(END)wayokuba<br>
         <audio src="/assets/audio/smoky-thrill-end.mp3" controls></audio>
       </td>
+      <td>✓</td>
     </tr>
     <tr>
       <td markdown="span">[THE IDOLM@STER 2nd-mix](the-idolmaster-2nd-mix)</td>
@@ -266,6 +279,7 @@ parent: Reference
         (instrumental) / atara(END)shii<br>
         <audio controls src="/assets/audio/the-idolmaster-2nd-mix-end.mp3"></audio>
       </td>
+      <td>✓</td>
     </tr>
     <tr>
       <td markdown="span">[MEGARE!](megare)</td>
@@ -281,6 +295,7 @@ parent: Reference
         kandousaserareru ka na / (END) mezase aidoru<br>
         <audio controls src="/assets/audio/megare-end.mp3"></audio>
       </td>
+      <td>✓</td>
     </tr>
     <tr>
       <td markdown="span">[The world is all one !!](the-world-is-all-one)</td>
@@ -296,6 +311,7 @@ parent: Reference
         sekaijuu no te wo tori (END)<br>
         <audio controls src="/assets/audio/the-world-is-all-one-end.mp3"></audio>
       </td>
+      <td>✓</td>
     </tr>
     <tr>
       <td markdown="span">[Honey Heartbeat](honey-heartbeat)</td>
@@ -311,6 +327,7 @@ parent: Reference
         Say. my honey. What you wan(END)t. senaka ni<br>
         <audio controls src="/assets/audio/honey-heartbeat-end.mp3"></audio>
       </td>
+      <td>✓</td>
     </tr>
     <tr>
       <td markdown="span">[READY!!](ready)</td>
@@ -326,6 +343,7 @@ parent: Reference
         deai ya wakare wa ai ni naru AMUSEMENT / ALREADY!! WE(END)'RE ALL<br>
         <audio controls src="/assets/audio/ready-end.mp3"></audio>
       </td>
+      <td>✓</td>
     </tr>
   </tbody>
 </table>
