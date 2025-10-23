@@ -48,7 +48,7 @@ Difficulty HYPER (compared to NORMAL)
 ### Dotop TV
 
 - The scrolling rankings can be stopped by pressing Start, and can be scrolled in any direction using the directional buttons.
-- Even if they are still scrolling, hitting { include button_circle.html } ({ include button_cross.html } on a Japanese PS3) will immediately close the screen.
+- Even if they are still scrolling, hitting {% icon button-circle %} ({% icon button-cross %} on a Japanese PS3) will immediately close the screen.
   (**TODO: Fix the button references here, Google Sites broke it at some point, and the Japanese page link is no longer correct.**)
 - When Ryuugu Komachi's and Jupiter's current songs are on the ranking, the scrolling will stop briefly before continuing again.
 
