@@ -1,0 +1,6 @@
+
+# Jekyll's build dir
+_site/
+
+# IDEA, WebStorm, etc.
+.idea/

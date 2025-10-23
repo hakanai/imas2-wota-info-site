@@ -1,0 +1,9 @@
+// File is automatically imported by `just-the-docs.scss`.
+// Using deprecated `@import` because it works, while `@use` and `@forward` do not.
+// This may be because the theme is still using `@import` to import this file?
+@import "./custom-site-title";
+@import "./custom-headings";
+@import "./custom-images";
+@import "./custom-icons";
+@import "./custom-tables.scss";
+@import "./custom-toc";

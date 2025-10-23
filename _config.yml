@@ -1,0 +1,46 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-toc
+
+theme: just-the-docs
+color_scheme: darkmas
+
+exclude:
+  - README.md
+
+# Jekyll defaults
+defaults:
+  -
+    scope:
+      # empty string here means all files in the project
+      path: ""
+    values:
+      layout: "default"
+      has_toc: false
+      #image: /assets/images/name-tag.png
+
+url: "https://imas2.wota.info"
+
+# Purely to remove the file extension from links
+permalink: /:categories/:year/:month/:day/:title
+
+title: "THE iDOLM@STER 2 Strategy Site"
+description: "Strategy site for THE iDOLM@STER 2, including translation of the Japanese strategy wiki for the same."
+copyright: "Copyright ©️ 2012-2020, 2025 Hakanai"
+ga_tracking: UA-97875-2
+
+nav_enabled: true
+nav_error_report: true
+
+search_enabled: true
+heading_anchors: true
+
+sass:
+  # https://github.com/just-the-docs/just-the-docs/issues/1541
+  quiet_deps: true
+  # https://github.com/just-the-docs/just-the-docs/issues/1607
+  silence_deprecations: ['import']
+
+twitter:
+  username: "@HakanaiVR"

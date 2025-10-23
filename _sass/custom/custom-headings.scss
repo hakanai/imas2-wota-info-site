@@ -1,0 +1,5 @@
+// Normally $body-heading-color is applied to all headings, including the site title.
+// But we only want to colour h1 and h2, anything more is way too much.
+h1, h2 {
+    color: color-mix(in srgb, $link-color 50%, $body-heading-color 50%);
+}

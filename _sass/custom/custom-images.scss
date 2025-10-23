@@ -1,0 +1,5 @@
+
+// Flip site logo to black if it's being painted on a light background.
+img[src='/assets/images/site-logo-white-transparent.png'] {
+  mix-blend-mode: difference;
+}

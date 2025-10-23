@@ -1,0 +1,8 @@
+// Our variation on the dark colour scheme.
+
+// I wanted to conditionally import dark or light, but it turns out that doesn't work with SASS.
+// I'll just have to rely on just-the-docs' JS API to switch to the right theme.
+@import "./color_schemes/dark";
+
+// Hot pink somewhat like the 2 in the game's logo
+$link-color: #F061A4;

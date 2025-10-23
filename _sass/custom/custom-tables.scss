@@ -1,0 +1,63 @@
+// Overrides for things the theme is doing that we don't like:
+
+table {
+    min-width: 0% !important;
+}
+th, td {
+    min-width: 2rem !important;
+}
+th {
+    text-align: left !important;
+}
+
+// Stuff specific to our own tables:
+
+// Hex colour values extracted from someone else's game screenshot,
+// so these may be off, especially because the texture has a slight gradient!
+
+$dance-color: #1799DF;
+$dance-color-screenshot-1: #0299EA;
+$dance-color-screenshot-2: #024FF5;
+$dance-color-thewolfbunny: #4CA9F9;
+
+$visual-color: #EAB815;
+$visual-color-screenshot-1: #FCE829;
+$visual-color-screenshot-2: #FD9A01;
+$visual-color-thewolfbunny: #F2A43A;
+
+$vocal-color: #E41969;
+$vocal-color-screenshot-1: #FB0064;
+$vocal-color-screenshot-2: #BE042B;
+$vocal-color-thewolfbunny: #EA3824;
+
+th.da, td.da, span.da { color: $dance-color; }
+th.vi, td.vi, span.vi { color: $visual-color; }
+th.vo, td.vo, span.vo { color: $vocal-color; }
+table.items {
+    td:nth-of-type(1), td:nth-of-type(3), td:nth-of-type(4), td:nth-of-type(5), td:nth-of-type(6) { text-align: right !important; }
+    td:nth-of-type(3) { color: $dance-color; }
+    td:nth-of-type(4) { color: $visual-color; }
+    td:nth-of-type(5) { color: $vocal-color; }
+}
+table.item-sets {
+    td { text-align: right !important; }
+    td:nth-of-type(1) { color: $dance-color; }
+    td:nth-of-type(2) { color: $visual-color; }
+    td:nth-of-type(3) { color: $vocal-color; }
+}
+table.coordination {
+    td:nth-of-type(1), td:nth-of-type(3), td:nth-of-type(4), td:nth-of-type(5), td:nth-of-type(6) { text-align: right !important; }
+    td:nth-of-type(3) { color: $dance-color; }
+    td:nth-of-type(4) { color: $visual-color; }
+    td:nth-of-type(5) { color: $vocal-color; }
+}
+
+// For Story Timeline table:
+
+th.no-choice-event {
+    background: color-mix(in srgb, rgb(255,0,0) 10%, $table-background-color 90%);
+}
+td.song-event {
+    font-weight: bold;
+    background: color-mix(in srgb, rgb(0,255,255) 10%, $table-background-color 90%);
+}
