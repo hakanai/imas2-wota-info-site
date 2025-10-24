@@ -1,0 +1,7 @@
+{
+  "icons": [
+    { "src": "/assets/images/favicon/icon-192px.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/assets/images/favicon/icon-512px-maskable.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" },
+    { "src": "/assets/images/favicon/icon-512px.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
