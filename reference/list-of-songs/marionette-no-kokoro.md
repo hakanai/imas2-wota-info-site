@@ -1,17 +1,17 @@
 ---
-title: Marionette no Kokoro
+title: [Marionette no Kokoro](marionette-no-kokoro)
 parent: List of Songs
 ---
 
-# Marionette no Kokoro
+# [Marionette no Kokoro](marionette-no-kokoro)
 
 ## Song Data
 
-| Lyrics | TODO |
-| Composition, Arrangement | TODO |
-| Personal song for character | - |
-| Image | <span class="da">Dance</span> |
-| BPM | TODO |
+| Lyrics | mft |
+| Composition, Arrangement | Yukari Hashimoto, Makoto Miyazaki |
+| Personal song for character | Miki |
+| Image | DA. |
+| BPM | 152 |
 | Appeal Count | 136 |
 | Quintet | ✗ |
 
