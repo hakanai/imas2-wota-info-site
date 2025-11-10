@@ -3,8 +3,24 @@ plugins:
   - jekyll-seo-tag
   - jekyll-toc
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  parse_block_html: true
+
 theme: just-the-docs
 color_scheme: darkmas
+
+callouts:
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  tip:
+    title: Tip
+    color: green
 
 exclude:
   - README.md

@@ -684,11 +684,10 @@ parent: Reference
     </tr>
   </tbody>
 </table>
-</table>
 
-> #### Note
+{: .note }
 > Some data for the **DLC Songs** section is still incomplete.  
-> The following columns are missing information: **Appeal count** and **Effects**.  
+> The following columns are missing information: **Lyrics**, **Appeal count**, and **Effects**.  
 > These will be updated once accurate values are verified.  
 >
 > If you have reliable sources or data, you’re welcome to **contribute** by submitting updates through the repository.
