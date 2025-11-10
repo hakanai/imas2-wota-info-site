@@ -1,20 +1,19 @@
 ---
-title: Brand New Day!
-
+title: [Brand New Day!](brand-new-day)
 parent: List of Songs
 ---
 
-# Brand New Day!
+# [Brand New Day!](brand-new-day)
 
 ## Song Data
 
-| Lyrics | TODO |
-| Composition, Arrangement | TODO |
-| Personal song for character | TODO |
-| Image | TODO |
-| BPM | TODO |
-| Appeal Count | TODO |
-| Quintet | TODO |
+| Lyrics | Hiroshi Okubo |
+| Composition, Arrangement | Hiroshi Okubo |
+| Personal song for character | - |
+| Image | VO. |
+| BPM | 163 |
+| Appeal Count | 150 |
+| Quintet | ✗ |
 
 ## Lyrics
 

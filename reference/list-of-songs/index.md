@@ -6,26 +6,28 @@ parent: Reference
 # List of Songs
 
 <table>
-  <thead>
-    <tr>
-      <th rowspan="2">Song</th>
-      <th rowspan="2">Personal song for character</th>
-      <th rowspan="2">Image</th>
-      <th colspan="4">Effects</th>
-      <th rowspan="2">BPM</th>
-      <th rowspan="2">Appeal count</th>
-      <th rowspan="2">Timing of final appeal</th>
-      <th rowspan="2">Quintet</th>
-    </tr>
-    <tr>
-      <th class="da">DA.</th>
-      <th class="vi">VI.</th>
-      <th class="vo">VO.</th>
-      <th>Total</th>
-    </tr>
-  </thead>
+    <thead>
+      <tr>
+        <th rowspan="2" style="width:90px;">Thumbnail</th>
+        <th rowspan="2">Song</th>
+        <th rowspan="2">Personal song for character</th>
+        <th rowspan="2">Image</th>
+        <th colspan="4">Effects</th>
+        <th rowspan="2">BPM</th>
+        <th rowspan="2">Appeal count</th>
+        <th rowspan="2">Timing of final appeal</th>
+        <th rowspan="2">Quintet</th>
+      </tr>
+      <tr>
+        <th class="da">DA.</th>
+        <th class="vi">VI.</th>
+        <th class="vo">VO.</th>
+        <th>Total</th>
+      </tr>
+    </thead>
   <tbody>
     <tr>
+      <td><img src="../../assets/images/thumbnails/go-my-way.jpg" alt="GO MY WAY!! thumbnail" width="80"></td>
       <td markdown="span">[GO MY WAY!!](go-my-way)</td>
       <td>Haruka</td>
       <td class="da">DA.</td>
@@ -42,6 +44,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/relations.jpg" alt="relations thumbnail" width="80"></td>
       <td markdown="span">[Relations](relations)</td>
       <td>Miki</td>
       <td class="da">DA.</td>
@@ -58,6 +61,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/me-ga-au-toki.jpg" alt="Me ga Au Toki thumbnail" width="80"></td>
       <td markdown="span">[Me ga Au Toki](me-ga-au-toki)</td>
       <td>Chihaya</td>
       <td class="vi">VI.</td>
@@ -74,6 +78,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/kiramekirari.jpg" alt="Kirame☆Kirari thumbnail" width="80"></td>
       <td markdown="span">[Kiramekirari](kiramekirari)</td>
       <td>Yayoi</td>
       <td class="da">DA.</td>
@@ -90,6 +95,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/kosmos-cosmos.jpg" alt="Kosmos, Cosmos thumbnail" width="80"></td>
       <td markdown="span">[Kosmos, Cosmos](kosmos-cosmos)</td>
       <td>Yukiho</td>
       <td class="da">DA.</td>
@@ -106,6 +112,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+     <td><img src="../../assets/images/thumbnails/meisou-mind.jpg" alt="Meisou Mind thumbnail" width="80"></td>
       <td markdown="span">[Meisou Mind](meisou-mind)</td>
       <td>Makoto</td>
       <td class="vo">VO.</td>
@@ -122,6 +129,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+     <td><img src="../../assets/images/thumbnails/do-dai.jpg" alt="Do-Dai thumbnail" width="80"></td>
       <td markdown="span">[Do-Dai](do-dai)</td>
       <td>Mami</td>
       <td class="da">DA.</td>
@@ -138,6 +146,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+     <td><img src="../../assets/images/thumbnails/my-best-friend.jpg" alt="My Best Friend thumbnail" width="80"></td>
       <td markdown="span">[My Best Friend](my-best-friend)</td>
       <td>Takane</td>
       <td class="vi">VI.</td>
@@ -154,6 +163,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/shiny-smile.jpg" alt="Shiny Smile thumbnail" width="80"></td>
       <td markdown="span">[Shiny Smile](shiny-smile)</td>
       <td>Hibiki</td>
       <td class="vi">VI.</td>
@@ -170,6 +180,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+     <td><img src="../../assets/images/thumbnails/my-song.jpg" alt="My Song thumbnail" width="80"></td>
       <td markdown="span">[My Song](my-song)</td>
       <td>Ryuugu Komachi</td>
       <td class="vo">VO.</td>
@@ -186,6 +197,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+     <td><img src="../../assets/images/thumbnails/i.jpg" alt="I thumbnail" width="80"></td>
       <td markdown="span">[I](i)</td>
       <td>Ryuugu Komachi</td>
       <td class="vo">VO.</td>
@@ -202,6 +214,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/little-match-girl.jpg" alt="Little Match Girl thumbnail" width="80"></td>
       <td markdown="span">[Little Match Girl](little-match-girl)</td>
       <td>-</td>
       <td class="vi">VI.</td>
@@ -218,6 +231,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/ai-like-hamburger.jpg" alt="Ai Like Hamburger thumbnail" width="80"></td>
       <td markdown="span">[Ai LIKE Hamburger](ai-like-hamburger)</td>
       <td>-</td>
       <td class="vi">VI.</td>
@@ -234,6 +248,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/nanairo-button.jpg" alt="Nanairo Button thumbnail" width="80"></td>
       <td markdown="span">[Nanairo Button](nanairo-button)</td>
       <td>-</td>
       <td class="vi">VI.</td>
@@ -250,6 +265,7 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/smoky-thrill.jpg" alt="SMOKY THRILL thumbnail" width="80"></td>
       <td markdown="span">[SMOKY THRILL](smoky-thrill)</td>
       <td>-</td>
       <td class="vo">VO.</td>
@@ -266,6 +282,7 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/the-idolmaster-2nd-mix.jpg" alt="THE IDOLM@STER 2nd-mix thumbnail" width="80"></td>
       <td markdown="span">[THE IDOLM@STER 2nd-mix](the-idolmaster-2nd-mix)</td>
       <td>-</td>
       <td class="da">DA.</td>
@@ -282,6 +299,7 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/megare.jpg" alt="MEGARE! thumbnail" width="80"></td>
       <td markdown="span">[MEGARE!](megare)</td>
       <td>-</td>
       <td class="vi">VI.</td>
@@ -297,7 +315,8 @@ parent: Reference
       </td>
       <td>✓</td>
     </tr>
-    <tr>
+    <tr>]
+      <td><img src="../../assets/images/thumbnails/the-world-is-all-one.jpg" alt="The world is all one!! thumbnail" width="80"></td>
       <td markdown="span">[The world is all one !!](the-world-is-all-one)</td>
       <td>-</td>
       <td class="vo">VO.</td>
@@ -314,6 +333,7 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/honey-heartbeat.jpg" alt="Honey Heartbeat thumbnail" width="80"></td>
       <td markdown="span">[Honey Heartbeat](honey-heartbeat)</td>
       <td>-</td>
       <td class="da">DA.</td>
@@ -330,6 +350,7 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/ready.jpg" alt="READY!! thumbnail" width="80"></td>
       <td markdown="span">[READY!!](ready)</td>
       <td>-</td>
       <td class="vo">VO.</td>
@@ -353,8 +374,10 @@ parent: Reference
 <table>
   <thead>
     <tr>
+      <th rowspan="2" style="width:90px;">Thumbnail</th>
       <th rowspan="2">Song</th>
       <th rowspan="2">Catalog vol.</th>
+      <th rowspan="2">Personal song for character</th>
       <th rowspan="2">Image</th>
       <th colspan="4">Effects</th>
       <th rowspan="2">BPM</th>
@@ -371,8 +394,10 @@ parent: Reference
   </thead>
   <tbody>
     <tr>
+      <td><img src="../../assets/images/thumbnails/kami-summer.jpg" alt="Kami☆Summer thumbnail" width="80"></td>
       <td markdown="span">[Kami SUMMER!!](kami-summer)</td>
       <td>Vol. 01</td>
+      <td>-</td>
       <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">4</td>
@@ -384,8 +409,10 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/jibun-restart.jpg" alt="Jibun REST@RT thumbnail" width="80"></td>
       <td markdown="span">[Jibun REST@RT](jibun-restart)</td>
       <td>Vol. 02</td>
+      <td>-</td>
       <td class="vi">VI.</td>
       <td class="da">2</td>
       <td class="vi">8</td>
@@ -400,8 +427,10 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/kami-sama-no-birthday.jpg" alt="Kami-sama no Birthday thumbnail" width="80"></td>
       <td markdown="span">[Kami-sama no Birthday](kami-sama-no-birthday)</td>
       <td>Vol. 02</td>
+      <td>-</td>
       <td class="vo">VO.</td>
       <td class="da">5</td>
       <td class="vi">5</td>
@@ -413,8 +442,10 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/marionette-no-kokoro.jpg" alt="Marionette no Kokoro thumbnail" width="80"></td>
       <td markdown="span">[Marionette no Kokoro](marionette-no-kokoro)</td>
       <td>Vol. 03</td>
+      <td>Miki</td>
       <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">2</td>
@@ -426,8 +457,10 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/change.jpg" alt="CHANGE!!!! thumbnail" width="80"></td>
       <td markdown="span">[CHANGE!!!!](change)</td>
       <td>Vol. 04</td>
+      <td>-</td>
       <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">0</td>
@@ -439,8 +472,10 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/brand-new-day.jpg" alt="Brand New Day! thumbnail" width="80"></td>
       <td markdown="span">[Brand New Day!](brand-new-day)</td>
       <td>Vol. 05</td>
+      <td>-</td>
       <td class="vo">VO.</td>
       <td class="da">2</td>
       <td class="vi">0</td>
@@ -452,8 +487,10 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/watashi-tachi-wa-zutto-desho.jpg" alt="Watashi-tachi wa Zutto... desho? thumbnail" width="80"></td>
       <td markdown="span">[Watashi-tachi wa Zutto... Deshō?](watashi-tachi-wa-zutto-desho)</td>
       <td>Vol. 06</td>
+      <td>-</td>
       <td class="vi">VI.</td>
       <td class="da">5</td>
       <td class="vi">8</td>
@@ -465,8 +502,10 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/kyun-vampire-girl.jpg" alt="Kyun! Vampire Girl thumbnail" width="80"></td>
       <td markdown="span">[Kyun! Vampire Girl](kyun-vampire-girl)</td>
       <td>Vol. 07</td>
+      <td>-</td>
       <td class="vo">VO.</td>
       <td class="da">5</td>
       <td class="vi">5</td>
@@ -478,8 +517,10 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/overmaster.jpg" alt="Overmaster thumbnail" width="80"></td>
       <td markdown="span">[Overmaster](overmaster)</td>
       <td>Vol. 08</td>
+      <td>-</td>
       <td class="da">DA.</td>
       <td class="da">8</td>
       <td class="vi">4</td>
@@ -491,8 +532,10 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/lobm.jpg" alt="L・O・B・M thumbnail" width="80"></td>
       <td markdown="span">[L.O.B.M](lobm)</td>
       <td>Vol. 09</td>
+      <td>-</td>
       <td class="vi">VI.</td>
       <td class="da">2</td>
       <td class="vi">8</td>
@@ -504,8 +547,10 @@ parent: Reference
       <td>✓</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/colorful-days.jpg" alt="Colorful Days thumbnail" width="80"></td>
       <td markdown="span">[Colorful Days](colorful-days)</td>
       <td>Vol. 10</td>
+      <td>-</td>
       <td class="vi">VI.</td>
       <td class="da">5</td>
       <td class="vi">8</td>
@@ -517,8 +562,10 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/i-want.jpg" alt="I Want thumbnail" width="80"></td>
       <td markdown="span">[I Want](i-want)</td>
       <td>Vol. 11</td>
+      <td>Haruka</td>
       <td class="vo">VO.</td>
       <td class="da">4</td>
       <td class="vi">0</td>
@@ -530,8 +577,10 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/furu-furu-future.jpg" alt="Furu Furu Future☆ thumbnail" width="80"></td>
       <td markdown="span">[Furu-Furu Future☆](furu-furu-future)</td>
       <td>Vol. 12</td>
+      <td>Miki</td>
       <td class="vi">VI.</td>
       <td class="da">7</td>
       <td class="vi">8</td>
@@ -543,8 +592,10 @@ parent: Reference
       <td>✗</td>
     </tr>
     <tr>
+      <td><img src="../../assets/images/thumbnails/mahou-o-kakete.jpg" alt="Mahou o Kakete! thumbnail" width="80"></td>
       <td markdown="span">[Mahou o Kakete!](mahou-o-kakete)</td>
       <td>Vol. 13</td>
+      <td>Ritsuko</td>
       <td class="vo">VO.</td>
       <td class="da"></td>
       <td class="vi"></td>
@@ -555,31 +606,114 @@ parent: Reference
       <td>sora o kakeru mahou no basha youi (END) shiteru wa</td>
       <td>✗</td>
     </tr>
+    <tr>
+      <td><img src="../../assets/images/thumbnails/agent-yoru-o-yuku.jpg" alt="Agent Yoru o Yuku thumbnail" width="80"></td>
+      <td markdown="span">[Agent Yoru o Yuku](agent-yoru-o-yuku)</td>
+      <td>Vol. 14</td>
+      <td>Makoto</td>
+      <td>DA.</td>
+      <td class="da"></td>
+      <td class="vi"></td>
+      <td class="vo"></td>
+      <td></td>
+      <td>178</td>
+      <td></td>
+      <td></td>
+      <td>✗</td>
+    </tr>
+    <tr>
+      <td><img src="../../assets/images/thumbnails/watashi-wa-idol.jpg" alt="Watashi wa Idol♡ thumbnail" width="80"></td>
+      <td markdown="span">[Watashi wa Idol♡](watashi-wa-idol)</td>
+      <td>Vol. 15</td>
+      <td>Haruka, Iori</td>
+      <td>VI.</td>
+      <td class="da"></td>
+      <td class="vi"></td>
+      <td class="vo"></td>
+      <td></td>
+      <td>168</td>
+      <td></td>
+      <td></td>
+      <td>✗</td>
+      
+  </tr>
+  <tr>
+      <td><img src="../../assets/images/thumbnails/omoide-wo-arigatou.jpg" alt="Omoide wo Arigatou thumbnail" width="80"></td>
+      <td markdown="span">[Omoide wo Arigatou](omoide-wo-arigatou)</td>
+      <td>Vol. 16</td>
+      <td>Chihaya, Miki</td>
+      <td>VO.</td>
+      <td class="da"></td>
+      <td class="vi"></td>
+      <td class="vo"></td>
+      <td></td>
+      <td>133</td>
+      <td></td>
+      <td></td>
+      <td>✗</td>
+  </tr>
+  <tr>
+      <td><img src="../../assets/images/thumbnails/9-02pm.jpg" alt="9:02pm thumbnail" width="80"></td>
+      <td markdown="span">[9:02pm](9-02pm)</td>
+      <td>Vol. 17</td>
+      <td>Azusa</td>
+      <td>VI.</td>
+      <td class="da"></td>
+      <td class="vi"></td>
+      <td class="vo"></td>
+      <td></td>
+      <td>70</td>
+      <td></td>
+      <td></td>
+      <td>✗</td>
+  </tr>
+  <tr>
+      <td><img src="../../assets/images/thumbnails/positive.jpg" alt="Positive! thumbnail" width="80"></td>
+      <td markdown="span">[Positive!](positive)</td>
+      <td>Vol. 18</td>
+      <td>Ami, Mami</td>
+      <td>VI.</td>
+      <td class="da"></td>
+      <td class="vi"></td>
+      <td class="vo"></td>
+      <td></td>
+      <td>138</td>
+      <td></td>
+      <td></td>
+      <td>✗</td>
+    </tr>
   </tbody>
 </table>
 
+{: .note }
+> Some data for the **DLC Songs** section is still incomplete.  
+> The following columns are missing information: **Lyrics**, **Appeal count**, and **Effects**.  
+> These will be updated once accurate values are verified.  
+>
+> If you have reliable sources or data, you’re welcome to **contribute** by submitting updates through the repository.
+
 ## Exclusively Used by Rivals
 
-| Song | Remarks |
-|------|---------|
-| [Alice or Guilty](alice-or-guilty) | Jupiter exclusive |
-| [Koi wo Hajimeyou](koi-wo-hajimeyou) | Jupiter exclusive |
+| Thumbnail | Song | Remarks |
+|------------|------|---------|
+| <img src="../../assets/images/thumbnails/alice-or-guilty.jpg" alt="Alice or Guilty" width="90"> | [Alice or Guilty](alice-or-guilty) | Jupiter exclusive |
+| <img src="../../assets/images/thumbnails/koi-wo-hajimeyou.jpg" alt="Koi wo Hajimeyou" width="90"> | [Koi wo Hajimeyou](koi-wo-hajimeyou) | Jupiter exclusive |
 
 ## Exclusively Used for Endings
 
 (cannot use in Produce Mode or S4U Mode)
 
-| Song | Remarks |
-|------|---------|
-| [First Step](first-step) | |
-| [I ~ and you ~](i-and-you) | |
+| Thumbnail | Song | Remarks |
+|------------|------|---------|
+| N/A | [First Step](first-step) |The "true" ending song in Yukiho's storyline |
+| N/A | [I ~ and you ~](i-and-you) |Bad ending|
 
 ## Special Songs
 
-| Song | Remarks |
-|------|---------|
-| [World is Mine](world-is-mine) | Hatsune Miku (DLC Song, Miku exclusive) |
-| [Alive](alive) | Hidaka Ai (DLC Song, Ai exclusive) |
-| [Melt](melt) | Hatsune Miku (DLC Song, Miku exclusive) |
-| [Precog](precog) | Mizutani Eri (DLC Song, Eri exclusive) |
-| [Dazzling World](dazzling-world) | Akizuki Ryō (DLC Song, Ryō exclusive) |
+| Thumbnail | Song | Remarks |
+|------------|------|---------|
+| <img src="../../assets/images/thumbnails/world-is-mine.jpg" alt="World is Mine" width="90"> | [World is Mine](world-is-mine) | Hatsune Miku (DLC Song, Miku exclusive) |
+| <img src="../../assets/images/thumbnails/alive.jpg" alt="Alive" width="90"> | [Alive](alive) | Hidaka Ai (DLC Song, Ai exclusive) |
+| <img src="../../assets/images/thumbnails/melt.jpg" alt="Melt" width="90"> | [Melt](melt) | Hatsune Miku (DLC Song, Miku exclusive) |
+| <img src="../../assets/images/thumbnails/precog.jpg" alt="Precog" width="90"> | [Precog](precog) | Mizutani Eri (DLC Song, Eri exclusive) |
+| <img src="../../assets/images/thumbnails/dazzling-world.jpg" alt="Dazzling World" width="90"> | [Dazzling World](dazzling-world) | Akizuki Ryō (DLC Song, Ryō exclusive) |

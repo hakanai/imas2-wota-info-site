@@ -1,19 +1,19 @@
 ---
-title: Watashi-tachi wa Zutto... Deshō?
+title: [Watashi-tachi wa Zutto... Deshō?](watashi-tachi-wa-zutto-desho)
 parent: List of Songs
 ---
 
-# Watashi-tachi wa Zutto... Deshō?
+# [Watashi-tachi wa Zutto... Deshō?](watashi-tachi-wa-zutto-desho)
 
 ## Song Data
 
-| Lyrics | TODO |
-| Composition, Arrangement | TODO |
-| Personal song for character | TODO |
-| Image | TODO |
-| BPM | TODO |
-| Appeal Count | TODO |
-| Quintet | TODO |
+| Lyrics | Aki Hata |
+| Composition, Arrangement | Hiroto Sasaki |
+| Personal song for character | - |
+| Image | VI. |
+| BPM | 142 |
+| Appeal Count | 120 |
+| Quintet | ✓ |
 
 ## Lyrics
 
