@@ -5,6 +5,7 @@ plugins:
 
 theme: just-the-docs
 color_scheme: darkmas
+lang: en
 
 exclude:
   - README.md
@@ -19,6 +20,8 @@ defaults:
       layout: "default"
       has_toc: false
       #image: /assets/images/name-tag.png
+      parent: null
+      nav_exclude: false
 
 url: "https://imas2.wota.info"
 
@@ -27,9 +30,9 @@ permalink: /:categories/:year/:month/:day/:title
 
 title: "THE iDOLM@STER 2 Strategy Site"
 description: "Strategy site for THE iDOLM@STER 2, including translation of the Japanese strategy wiki for the same."
-ga_tracking: UA-97875-2
+ga_tracking: G-MB7FQ3PG70
 
-footer_content: "Copyright ©️ 2011-2020, 2025 Hakanai."
+footer_content: "Copyright ©️ 2011-2020, 2025-2026 Hakanai."
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/hakanai/imas2-wota-info-site"
@@ -44,6 +47,8 @@ heading_anchors: true
 
 liquid:
   error_mode: strict
+  # strict_variables: true
+  # strict_filters: true
 
 sass:
   # https://github.com/just-the-docs/just-the-docs/issues/1541
