@@ -6,25 +6,25 @@ parent: Reference
 # List of Songs
 
 <table>
-    <thead>
-      <tr>
-        <th rowspan="2" style="width:90px;">Thumbnail</th>
-        <th rowspan="2">Song</th>
-        <th rowspan="2">Personal song for character</th>
-        <th rowspan="2">Image</th>
-        <th colspan="4">Effects</th>
-        <th rowspan="2">BPM</th>
-        <th rowspan="2">Appeal count</th>
-        <th rowspan="2">Timing of final appeal</th>
-        <th rowspan="2">Quintet</th>
-      </tr>
-      <tr>
-        <th class="da">DA.</th>
-        <th class="vi">VI.</th>
-        <th class="vo">VO.</th>
-        <th>Total</th>
-      </tr>
-    </thead>
+  <thead>
+    <tr>
+      <th rowspan="2" style="width:90px;">Thumbnail</th>
+      <th rowspan="2">Song</th>
+      <th rowspan="2">Personal song for character</th>
+      <th rowspan="2">Image</th>
+      <th colspan="4">Effects</th>
+      <th rowspan="2">BPM</th>
+      <th rowspan="2">Appeal count</th>
+      <th rowspan="2">Timing of final appeal</th>
+      <th rowspan="2">Quintet</th>
+    </tr>
+    <tr>
+      <th class="da">DA.</th>
+      <th class="vi">VI.</th>
+      <th class="vo">VO.</th>
+      <th>Total</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td><img src="../../assets/images/thumbnails/go-my-way.jpg" alt="GO MY WAY!! thumbnail" width="80"></td>
@@ -635,9 +635,8 @@ parent: Reference
       <td></td>
       <td></td>
       <td>✗</td>
-      
-  </tr>
-  <tr>
+    </tr>
+    <tr>
       <td><img src="../../assets/images/thumbnails/omoide-wo-arigatou.jpg" alt="Omoide wo Arigatou thumbnail" width="80"></td>
       <td markdown="span">[Omoide wo Arigatou](omoide-wo-arigatou)</td>
       <td>Vol. 16</td>
@@ -651,8 +650,8 @@ parent: Reference
       <td></td>
       <td></td>
       <td>✗</td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
       <td><img src="../../assets/images/thumbnails/9-02pm.jpg" alt="9:02pm thumbnail" width="80"></td>
       <td markdown="span">[9:02pm](9-02pm)</td>
       <td>Vol. 17</td>
@@ -666,8 +665,8 @@ parent: Reference
       <td></td>
       <td></td>
       <td>✗</td>
-  </tr>
-  <tr>
+    </tr>
+    <tr>
       <td><img src="../../assets/images/thumbnails/positive.jpg" alt="Positive! thumbnail" width="80"></td>
       <td markdown="span">[Positive!](positive)</td>
       <td>Vol. 18</td>
