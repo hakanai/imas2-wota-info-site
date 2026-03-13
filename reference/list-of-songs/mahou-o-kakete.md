@@ -1,19 +1,19 @@
 ---
-title: Mahou o Kakete!
+title: [Mahou o Kakete!](mahou-o-kakete)
 parent: List of Songs
 ---
 
-# Mahou o Kakete!
+# [Mahou o Kakete!](mahou-o-kakete)
 
 ## Song Data
 
-| Lyrics | TODO |
-| Composition, Arrangement | TODO |
-| Personal song for character | TODO |
-| Image | TODO |
-| BPM | TODO |
+| Lyrics | Satoru Kousaki |
+| Composition, Arrangement | Satoru Kousaki |
+| Personal song for character | Ritsuko |
+| Image | VO. |
+| BPM | 150 |
 | Appeal Count | TODO |
-| Quintet | TODO |
+| Quintet | ✗ |
 
 ## Lyrics
 
